@@ -1,0 +1,23 @@
+git code snip it:
+
+git status
+
+git add .
+
+git commit -m "message"
+
+git log
+
+git checkout commitCode
+
+git reset --soft commitCode
+
+git reset --hard commitCode
+
+
+git revert commitCode -- for deleting the file (or the changes of the commit) but keeping the commit in the history.
+
+
+git remote add origin https://github.com/Jamyka/iti-menofia.git
+
+git push origin master
